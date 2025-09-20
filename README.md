@@ -1,12 +1,45 @@
-# React + Vite
+  Project Name- TripManagement App 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## ⚡ Features Implemented
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✔ Display Trip List in table / card format  
+✔ Add New Trip (Form with Validation)  
+✔ Edit Existing Trip Details  
+✔ Delete Trip  
+✔ Search Trips by Destination  
+✔ Filter Trips by Status (PLANNED / ONGOING / COMPLETED)  
+✔ Sort Trips by Price / Start Date  
+✔ Client-Side Pagination  
+✔ Responsive UI (Tailwind CSS)  
+✔ Form Validation (React Hook Form)  
+✔ React Router v6 for navigation  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+Screenshots of the UI are available in the **`ScreenShot Of UI/`** folder.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React 18+, Vite / CRA  
+- **Routing:** React Router v6  
+- **Styling:** Tailwind CSS  
+- **Forms & Validation:** React Hook Form  
+- **State Management:** useState + useEffect  
+- **Optional UI Libraries:** Material UI / Ant Design  
+
+---
+
+## ▶️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/React-Trip-Management-SEP-2025-102.git
+cd React-Trip-Management-SEP-2025-102/client
+Then install dependecies using npm install
+after this run the project using cmd - npm run dev
+now your project run on -> http://localhost:5173/
